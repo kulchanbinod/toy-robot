@@ -1,0 +1,19 @@
+{
+    "name": "binodpariyar/toy-robot",
+    "description": "Toy Robot",
+    "authors": [
+        {
+            "name": "Binod Pariyar",
+            "email": "kulchan.binod@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ToyRobot\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
